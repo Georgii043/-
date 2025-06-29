@@ -19,5 +19,5 @@
 - Гучков Георгий
 
 ## Ссылки
-- [Video](https://disk.yandex.ru/client/disk/ВКР)
+- [Video](https://disk.yandex.ru/client/disk/ВКР?idApp=client&dialog=slider&idDialog=%2Fdisk%2FВКР%2FУМП.mkv)
 - [Презентация](https://disk.yandex.ru/client/disk/ВКР/презентация)
